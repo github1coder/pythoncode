@@ -21,4 +21,5 @@ while True:
     if num == 10:
          continue
     print(num)
+    print(num)
     time.sleep(1)
